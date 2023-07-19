@@ -1,0 +1,1 @@
+export const TOPIC_LIST = [{label: 'Շաբաթվա օրեր'}, {label: 'Ամիսներ'}, {label: 'Մարմնի մասեր'}, {label: 'Մթերք'}, {label: 'Ազգ-ազգություն'}, {label: 'Գույներ'}, {label: 'Տարվա եղանակները'}, {label: 'Թվեր'}]
